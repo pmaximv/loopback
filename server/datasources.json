@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "ec2-54-199-161-147.ap-northeast-1.compute.amazonaws.com",
+    "port": 27017,
+    "url": "",
+    "database": "catalog",
+    "password": "",
+    "name": "MongoDB",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
