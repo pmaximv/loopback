@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "MongoDB": {
-    "host": "ec2-54-199-161-147.ap-northeast-1.compute.amazonaws.com",
+    "host": "ec2-13-231-255-38.ap-northeast-1.compute.amazonaws.com",
     "port": 27017,
     "url": "",
     "database": "catalog",
